@@ -1,0 +1,32 @@
+﻿@model clientWebApp.Models.Admin
+
+@{
+    ViewBag.Title = "AdminLogin";
+}
+
+<h2>AdminLogin</h2>
+
+@using (Html.BeginForm("AdminLogin", "Home", FormMethod.Post))
+{
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email_Id, new { @class = "control-label col-md-2" })
+        <div class="col-md-5">
+            @Html.TextBoxFor(model => model.Email_Id, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Email_Id)
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password, new { @class = "control-label col-md-2" })
+        <div class="col-md-5">
+            @Html.TextBoxFor(model => model.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Password)
+        </div>
+    </div>
+    <br />
+    <div>
+        <button class="btn btn-danger">Login</button>
+    </div>
+}
+

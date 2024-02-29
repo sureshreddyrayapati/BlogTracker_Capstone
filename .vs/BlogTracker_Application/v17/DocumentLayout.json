@@ -1,0 +1,783 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89697080-A6EF-49B7-9073-388812DBEE6F}|NunitTest\\NunitTest.csproj|c:\\users\\dell\\source\\repos\\dal\\nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89697080-A6EF-49B7-9073-388812DBEE6F}|NunitTest\\NunitTest.csproj|solutionrelative:nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|c:\\users\\dell\\source\\repos\\dal\\clientwebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\shared\\employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\shared\\employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\controllers\\bloginfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\controllers\\bloginfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\bloginfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\bloginfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\bloginitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bloginitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\bloginfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\bloginfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\bt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\bt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\employeefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\employeefail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\adminfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\adminfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\employelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\employelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\adminretry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\adminretry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\controllers\\btcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\controllers\\btcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|C:\\Users\\dell\\source\\repos\\DAL\\clientwebapp\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CF5D1313-D0C6-4BE7-86DA-F8771500E676}|clientWebApp\\clientWebApp.csproj|solutionrelative:clientwebapp\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\migrations\\202402280819110_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\migrations\\202402280819110_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\migrations\\202402280841374_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\migrations\\202402280841374_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\dell\\source\\repos\\DAL\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0925A5C-3A24-472C-8BD6-F4E18EB43233}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Web.config",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Web.config",
+              "RelativeToolTip": "clientWebApp\\Views\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T15:35:15.621Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\NunitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NunitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\NunitTest\\UnitTest1.cs",
+              "RelativeToolTip": "NunitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:34:11.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Dockerfile",
+              "RelativeDocumentMoniker": "clientWebApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Dockerfile",
+              "RelativeToolTip": "clientWebApp\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-29T16:22:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "clientWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFMAAADgzMzMzMwiwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:57:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "clientWebApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:29:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:25:47.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\EmployeeLayout.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Shared\\EmployeeLayout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\EmployeeLayout.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Shared\\EmployeeLayout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T09:41:36.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T10:44:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Employee.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp1\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA6wBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:01:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogInfoesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\BlogInfoesController.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Controllers\\BlogInfoesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\BlogInfoesController.cs",
+              "RelativeToolTip": "clientWebApp\\Controllers\\BlogInfoesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:29:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\BlogInfoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\BlogInfoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\BlogInfoes\\Index.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\BlogInfoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T03:43:34.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:47:44.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T10:44:41.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T10:18:13.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:29:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\BlogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:02:04.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Properties\\AssemblyInfo.cs*",
+              "RelativeToolTip": "clientWebApp\\Properties\\AssemblyInfo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:58:48.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T08:05:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Web.config",
+              "RelativeDocumentMoniker": "clientWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Web.config",
+              "RelativeToolTip": "clientWebApp\\Web.config",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T13:53:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogInitilizer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogInitilizer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BlogInitilizer.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogInitilizer.cs",
+              "RelativeToolTip": "ConsoleApp1\\BlogInitilizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:02:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAADQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T10:38:26.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\BlogInfoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\BlogInfoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\BlogInfoes\\Create.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\BlogInfoes\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T03:43:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogInfo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BlogInfo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\BlogInfo.cs",
+              "RelativeToolTip": "ConsoleApp1\\BlogInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:01:49.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\bt\\Index.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\bt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\bt\\Index.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\bt\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:55:14.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\EmployeeFail.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\EmployeeFail.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\EmployeeFail.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\EmployeeFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T03:02:21.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminFail.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\AdminFail.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminFail.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\AdminFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T02:44:26.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\LogIn.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:46:49.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeLogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\EmployeLogIn.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\EmployeLogIn.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\EmployeLogIn.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\EmployeLogIn.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T16:05:48.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminRetry.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminRetry.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\AdminRetry.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminRetry.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\AdminRetry.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T02:26:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "btController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\btController.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Controllers\\btController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\btController.cs",
+              "RelativeToolTip": "clientWebApp\\Controllers\\btController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:55:05.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:43:04.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "clientWebApp\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:24:21.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "clientWebApp\\Models\\Employee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:10:55.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminlogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminlogIn.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Home\\AdminlogIn.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Home\\AdminlogIn.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Home\\AdminlogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T11:35:15.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Admins\\Details.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Admins\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Admins\\Details.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Admins\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:48:32.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Admins\\Delete.cshtml",
+              "RelativeDocumentMoniker": "clientWebApp\\Views\\Admins\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Views\\Admins\\Delete.cshtml",
+              "RelativeToolTip": "clientWebApp\\Views\\Admins\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:48:56.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Admin.cs",
+              "RelativeToolTip": "clientWebApp\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:28:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "clientWebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:33:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "clientWebApp\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "clientWebApp\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:28:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "clientWebApp\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\clientWebApp\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "clientWebApp\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-02-28T10:04:30.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "202402280819110_First.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\202402280819110_First.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\202402280819110_First.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\202402280819110_First.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\202402280819110_First.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:19:30.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "202402280841374_second.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\202402280841374_second.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\202402280841374_second.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\202402280841374_second.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\202402280841374_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:41:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:18:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Admin.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Admin.cs",
+              "RelativeToolTip": "ConsoleApp1\\Admin.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:00:17.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\DAL\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:56:18.56Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 536,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

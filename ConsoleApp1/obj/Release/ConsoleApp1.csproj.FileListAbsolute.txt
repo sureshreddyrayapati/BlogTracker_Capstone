@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\EntityFramework.dll
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\EntityFramework.xml
+C:\Users\dell\source\repos\DAL\ConsoleApp1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.Migrations.First.resources
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.Migrations.second.resources
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleA.CB28C8CC.Up2Date
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\dell\source\repos\DAL\ConsoleApp1\obj\Release\ConsoleApp1.pdb

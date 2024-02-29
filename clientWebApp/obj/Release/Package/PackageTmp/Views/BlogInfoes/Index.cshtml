@@ -1,0 +1,54 @@
+﻿@model IEnumerable<clientWebApp.Models.BlogInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+@{ Layout = ViewBag.Layout;
+        }
+
+<h2>Index</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success" style="background-color: green;">Add New</a>
+</p>
+
+<div class="blogs-container">
+    @foreach (var item in Model)
+    {
+        <div class="blog-item">
+            <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+            <p><strong>Subject:</strong> @Html.DisplayFor(modelItem => item.Subject)</p>
+            <p><strong>Date of Creation:</strong> @Html.DisplayFor(modelItem => item.DateOfCreation)</p>
+            <p class="b"><strong>Blog URL:</strong> @Html.DisplayFor(modelItem => item.BlogUlrb)</p>
+            <p><strong>Employee Email:</strong> @Html.DisplayFor(modelItem => item.EmpEmailId)</p>
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BlogId }, new { @class = "btn btn-primary" }) 
+               
+                @Html.ActionLink("Delete", "Delete", new { id = item.BlogId }, new { @class = "btn btn-danger" })
+            </p>
+        </div>
+    }
+</div>
+
+<style>
+    .blogs-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .green-btn {
+        background-color: green;
+        color: white; /* Optionally set text color */
+        /* Add any other styles as needed */
+    }
+    .b {
+        background-color: dodgerblue;
+        border-radius: 2px;
+    }
+    .blog-item {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 10px;
+        width: calc(50% - 20px); /* Adjust as needed for spacing */
+    }
+</style>

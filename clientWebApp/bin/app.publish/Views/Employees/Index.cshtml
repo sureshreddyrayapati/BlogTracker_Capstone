@@ -1,0 +1,64 @@
+﻿@model IEnumerable<clientWebApp.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+@{ 
+    Layout = ViewBag.Layout;
+}
+
+<h2>List Of Employees</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success" style="background-color: green;">Add New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th style="background-color: lightgrey;">
+           
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th style="background-color: lightgrey;">
+                @Html.DisplayNameFor(model => model.DataofJoining)
+            </th>
+            <th style="background-color: lightgrey;">
+                @Html.DisplayNameFor(model => model.PassCode)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="background-color: skyblue;">
+                  
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td style="background-color: skyblue;">
+                    @Html.DisplayFor(modelItem => item.DataofJoining)
+                </td>
+                <td style="background-color: skyblue;">
+                    @Html.DisplayFor(modelItem => item.PassCode)
+                </td>
+                <td style="background-color: skyblue;">
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Email_Id }, new { @class = "btn btn-danger" })
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Email_Id }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    .green-btn {
+        background-color: green;
+        color: white; /* Optionally set text color */
+        /* Add any other styles as needed */
+    }
+
+    td {
+        /* background-color: antiquewhite; */ /* Remove this line */
+    }
+</style>

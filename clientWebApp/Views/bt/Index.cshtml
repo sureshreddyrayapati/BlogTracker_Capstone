@@ -1,0 +1,30 @@
+﻿@model IEnumerable<clientWebApp.Models.BlogInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    .cls{
+        text-align:center;
+    }
+</style>
+<h2 class="cls">List of Blogs</h2>
+<style>
+    .b{
+        background-color:dodgerblue;
+        border-radius:2px;
+    }
+</style>
+<div style="display: flex; flex-wrap: wrap;">
+    @foreach (var item in Model)
+    {
+        <div style="width: calc(50% - 20px); border: 1px solid #ccc; margin: 10px; padding: 10px;">
+            <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+            <p><strong>Subject:</strong> @Html.DisplayFor(modelItem => item.Subject)</p>
+            <p><strong>Date of Creation:</strong> @Html.DisplayFor(modelItem => item.DateOfCreation)</p>
+            <p class="b"><strong>Blog URL:</strong> @Html.DisplayFor(modelItem => item.BlogUlrb)</p>
+            <p><strong>Employee Email ID:</strong> @Html.DisplayFor(modelItem => item.EmpEmailId)</p>
+        </div>
+    }
+</div>
